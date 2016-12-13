@@ -7,7 +7,7 @@
     "default_index": "_all"
   },
   "graphite": {
-    "url": "https://www.hostedgraphite.com/UID/ACCESS_KEY/graphite"
+    "url": "http://172.16.53.142:8000"
   },
   "default_rows": 2,
   "default_columns": 2,

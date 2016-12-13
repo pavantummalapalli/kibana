@@ -289,7 +289,7 @@ export default function defaultSettingsProvider() {
       description: 'Number of rows on a timelion sheet by default'
     },
     'timelion:graphite.url': {
-      value: 'https://www.hostedgraphite.com/UID/ACCESS_KEY/graphite',
+      value: 'http://172.16.53.142:8000',
       description: '<em>[experimental]</em> The URL of your graphite host'
     },
     'timelion:quandl.key': {
